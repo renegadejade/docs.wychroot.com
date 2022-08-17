@@ -4,35 +4,28 @@ sidebar_position: 5
 
 # Actions
 
-Actions are how you as an individual and the enclave as a collective interact with and influence the world. Normally, when you want to do something, you simply narrate what you’re doing, and it happens: “I’m going to walk over and burst through that door,” or “the enclave gathers for movie night,” for example.
-However, when what you want to do is _difficult_, _dangerous_, or _dramatic_, you make an **action roll** to see how things go.
+Normally, when you want to do something, you simply narrate what you’re doing, and it happens. However, when what you want to do is _difficult_, _dangerous_, or _dramatic_, you make an **action roll** to see how things go.
 
 ### Encounter Actions
-
-### Enclave Actions
-
-### Downtime Actions
+Function
+### 
 
 ## Action Rolls
 
 Actions rolls are used to determine if an action results in a `hit`, `snag`, or `error` and whether or not a MESHnet `glitch` occurs.
 
-To make the roll, you gather between one and six `d6`, roll them together, and read the **single highest result**.
+To make the roll, you build a `d6` dice pool, roll them, then interpret the results to see what happens.
 
 ### Building a Dice Pool
+Dice pools are made up of between one and six `d6`, the number of which depending on the type of action and the ratings involved. They all follow the same basic pattern:
 
-Action = Function
-Core Function (1d-3d) +
-Assets (0d-2d) +
-Variables (-1d-+1d)
+Function (1d-3d) + Assets (0d-2d) + Variables (-1d-+1d)
 
-### Results
+### Interpreting Results
 
 > How did it go?
 
-:::info Result Level
-After rolling, you read the **single highest result** and compare it to the table below to get the _result level_.
-:::
+To interpret the results of the action roll, you take the **single highest result** and compare it to the table below to see if you get a `hit`, `snag`, or `error`. Additionally, if you rolled **doubles**—two or more of *any result*—you also get a `glitch`.
 
 | Roll    | Result  | What happens?                                       | Success? | Consequence? | Glitch  |
 | :------ | :------ | :-------------------------------------------------- | :------- | :----------- | :------ |
@@ -54,3 +47,11 @@ You roll `4d` and get `[6,4,2,2]`
 
 You get a `hit`, because the `6` is the single highest result. You also get a `glitch`, because of the double `2` results.
 :::
+
+“I’m going to walk over and burst through that door,” or “the enclave gathers for movie night,” for example.
+
+### Encounter Actions
+
+### Enclave Actions
+
+### Downtime Actions
