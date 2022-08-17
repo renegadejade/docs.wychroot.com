@@ -1,0 +1,68 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+body {
+  font-family: acumin-pro, sans-serif;
+  font-weight: 400;
+  font-size: large;
+  font-style: normal;
+}
+
+h1 {
+  font-family: acumin-pro-extra-condensed, sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-family: acumin-pro-semi-condensed, sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  text-transform: uppercase;
+}
+
+h3 {
+  font-family: acumin-pro-condensed, sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  text-transform: uppercase;
+}
+
+.menu__link {
+  /* font-family: "Open Sans Condensed", sans-serif; */
+  font-weight: 800;
+  font-size: large;
+}
+/* font-size: large; */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #6e7b30;
+  --ifm-color-primary-dark: #636f2b;
+  --ifm-color-primary-darker: #5e6929;
+  --ifm-color-primary-darkest: #4d5622;
+  --ifm-color-primary-light: #798735;
+  --ifm-color-primary-lighter: #7f8d37;
+  --ifm-color-primary-lightest: #8fa03e;
+  --ifm-code-font-size: 95%;
+  --ifm-h1-font-size: 50%;
+
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme="dark"] {
+  --ifm-color-primary: #b1c64d;
+  --ifm-color-primary-dark: #a5bb3c;
+  --ifm-color-primary-darker: #9cb139;
+  --ifm-color-primary-darkest: #81922f;
+  --ifm-color-primary-light: #bacd62;
+  --ifm-color-primary-lighter: #bfd06c;
+  --ifm-color-primary-lightest: #ccda8b;
+
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
